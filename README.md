@@ -18,7 +18,7 @@ The data collected by the bookstore contains user interactions and engagement me
 
 The task/goal is to identify which theme, Light Theme or Dark Theme, yields better user engagement, purchases and conversion rates. You need to determine if there is a statistically significant difference in the key metrics between the two themes.
 
-# Hypothesis Testing: Process We Can Follow
+# Hypothesis Testing: The Process 
 So, Hypothesis Testing is a fundamental process in data science for making data-driven decisions and inferences about populations based on sample data. Below is the process we can follow for the task of Hypothesis Testing:
 
 Hypothesis Testing: Process We Can Follow
