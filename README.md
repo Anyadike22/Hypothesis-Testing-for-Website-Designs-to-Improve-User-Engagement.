@@ -34,3 +34,19 @@ So, Hypothesis Testing is a fundamental process in data science for making data-
 #### 5.Perform the chosen statistical test on your data.
 #### 6.Determine the p-value and interpret the results of your statistical tests.Gather the necessary data required for the hypothesis test.
 
+# Results of Hypothesis Testing for the Click Through Rate (CTR) between the Light Theme and Dark Theme
+
+The two-sample t-test for the Click Through Rate (CTR) between the Light Theme and Dark Theme yields a p-value of approximately 0.048. This p-value is slightly below our significance level of 0.05, indicating that there is a statistically significant difference in Click Through Rates between the Light Theme and Dark Theme, with the Dark Theme likely having a higher CTR given the direction of the test statistic.
+
+# Result of Hypothesis Testing for Bounce rate and Scroll depth
+
+## Bounce Rate:
+There’s no statistically significant difference in Bounce Rates between the themes (P-Value = 0.230).
+
+## Scroll Depth:
+Similarly, no statistically significant difference is observed in Scroll Depths (P-Value = 0.450).
+
+# Conclusion 
+In conclusion , while the two themes perform similarly across most metrics, the Dark Theme has a slight edge in terms of engaging users to click through. For other key performance indicators like Conversion Rate, Bounce Rate, and Scroll Depth, the choice between a Light Theme and a Dark Theme does not significantly affect user behaviour according to the data provided.
+
+
